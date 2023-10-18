@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <h1 align="center">Hi 👋, I'm Omurbek</h1>
 <h3 align="center"> Software Engineer looking for a new challenge 🦸‍♂️ | Expert in Node.js, NestJS, Databases, React.js, Next.js ,React Native🚀 | Let's Elevate Tech Together!</h3>
 - 🌱 I’m currently learning **Devops and AI**

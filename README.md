@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Omurbek</h1>
 <h3 align="center"> Software Engineer looking for a new challenge 🦸‍♂️ | Expert in Node.js, NestJS, Databases, React.js, Next.js ,React Native🚀 | Let's Elevate Tech Together!</h3>
 - 🌱 I’m currently learning **Devops and AI**
+
 - 💬 Ask me about **React,React Native,Node js,Front End,Nest js**
+  
 - 📫 How to reach me **omurbekmamytbekov545@gmail.com**
+  
 - 📝 I regularly write articles on **https://medium.com/@omurbekmamytbekov545**
 
 <div> <a href="https://www.linkedin.com/in/omurbek-mamytbekov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

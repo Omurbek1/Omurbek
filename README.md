@@ -77,5 +77,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 ### :writing_hand: Blog Posts :
-<a href="https://medium.com/@omurbekmamytbekov545/как-использовать-react-native-image-picker-0fc1a36a996f"> 1 Как использовать React-Native-Image-Picker :</a>
+<a href="https://medium.com/@omurbekmamytbekov545/как-использовать-react-native-image-picker-0fc1a36a996f"> 1) Как использовать React-Native-Image-Picker :</a>
+<a href="https://medium.com/@omurbekmamytbekov545/2022-жылы-эң-популярдуу-болгон-backend-frameworkтору-b9e9bbdf4fe9"> 2) 2022-жылы эң популярдуу болгон Backend Frameworkтору. :</a>
+<a href="https://medium.com/@omurbekmamytbekov545/как-узнать-состояние-батареи-устройства-в-react-js-29c4954be83f"> 3) Как узнать состояние батареи устройства в React JS :</a>
+<a href="https://medium.com/@omurbekmamytbekov545/nest-js-todo-колдонмосу-үчүн-rest-api-түзөбүз-a7b58769c"> 4) Nest.js — ToDo колдонмосу үчүн Rest API түзөбүз :</a>
+
 <!-- BLOG-POST-LIST:END -->

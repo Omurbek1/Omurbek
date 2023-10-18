@@ -76,4 +76,5 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:END -->

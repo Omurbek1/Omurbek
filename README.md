@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omurbek</h1>
 <h3 align="center"> Software Engineer looking for a new challenge 🦸‍♂️ | Expert in Node.js, NestJS, Databases, React.js, Next.js ,React Native🚀 | Let's Elevate Tech Together!</h3>
-
+- 🌱 I’m currently learning **Devops and AI**
+- 💬 Ask me about **React,React Native,Node js,Front End,Nest js**
 - 📫 How to reach me **omurbekmamytbekov545@gmail.com**
 - 📝 I regularly write articles on **https://medium.com/@omurbekmamytbekov545**
 
@@ -10,7 +11,7 @@
 <a href = "mailto:omurbekmamytbekov545@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codesandbox.com/omurbek1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="omurbek1" height="30" width="40" /></a><a href="https://linkedin.com/in/omurbek-mamytbekov" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="omurbek-mamytbekov" height="30" width="40" /></a><a href="https://www.leetcode.com/Omurbek1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Omurbek1" height="30" width="40" /></a><a href="https://instagram.com/mamytbekov_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="mamytbekov_o" height="30" width="40" /></a><a href="https://medium.com/@omurbekmamytbekov545" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@omurbekmamytbekov545" height="30" width="40" /></a></p>
+<a href="https://codesandbox.com/omurbek1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="omurbek1" height="30" width="40" /></a><a href="https://linkedin.com/in/omurbek-mamytbekov" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="omurbek-mamytbekov" height="30" width="40" /></a><a href="https://www.leetcode.com/Omurbek1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Omurbek1" height="30" width="40" /></a><a href="https://codepen.io/omurbek1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="omurbek1" height="30" width="40" /></a><a href="https://instagram.com/mamytbekov_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="mamytbekov_o" height="30" width="40" /></a><a href="https://medium.com/@omurbekmamytbekov545" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@omurbekmamytbekov545" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -47,6 +48,8 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/d3js-original.svg" alt="D3js" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/logo-title.svg" alt="Chart Js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/cypress.svg" alt="Cypress" width="40" height="40"/>
 </p>
 
 <h3 align="left">Stars</h3>
@@ -54,7 +57,7 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Omurbek1&show_icons=true&locale=en&theme=highcontrast" alt="Omurbek1" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Omurbek1&theme=highcontrast" alt="Omurbek1" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Omurbek1&theme=dark" alt="Omurbek1" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -62,6 +65,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omurbek1&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omurbek1&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Omurbek1&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Omurbek1&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Omurbek1&theme=yeblu" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omurbek1&theme=2077" height="180em" />
 </div>

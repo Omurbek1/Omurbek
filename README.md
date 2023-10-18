@@ -77,4 +77,5 @@
 
 <!-- BLOG-POST-LIST:START -->
 ### :writing_hand: Blog Posts :
+### 1 Blog Posts :
 <!-- BLOG-POST-LIST:END -->
